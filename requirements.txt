@@ -1,0 +1,9 @@
+addict
+attrs
+black
+coverage
+flake8
+mypy
+pylint
+pyperf
+pytest
