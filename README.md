@@ -8,6 +8,9 @@ Nothing useful yet.
 xmllint for now.
 
 ## Input modes
-Stdin mode.
+Files mode.
+
+## Output modes
+All in memory mode.
 
 Note: The default branch (with special meaning for github and gitlab users) has the name default 😉
