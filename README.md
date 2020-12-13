@@ -13,4 +13,4 @@ Files mode.
 ## Output modes
 All in memory mode.
 
-Note: The default branch (with special meaning for github and gitlab users) has the name default 😉
+**Note**: The name of the default branch is `default`.
